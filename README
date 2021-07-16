@@ -1,0 +1,12 @@
+=======================
+.py
+=======================
+ontology.py
+    Class hierarchy for Gameobject, Player, Zone, Card, Patron
+
+state.py
+    Controls:
+        Initialization of all objects
+        Construction of initial state
+    Records:
+        State representation over time
